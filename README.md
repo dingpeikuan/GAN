@@ -1,2 +1,2 @@
-# GAN
+# GANs
 some program about GANs
